@@ -27,3 +27,36 @@
   <br />
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
+
+
+## Project Overview
+
+**TikTok Creator Outreach Bot** is an innovative tool designed for efficiency in inviting TikTok creators to affiliate programs. Deployed as a Chrome extension, it boosts productivity in managing affiliate outreach on TikTok's shop platform.
+
+## Features
+
+### Key Features
+
+1. **Automated Platform Access and Navigation**
+    - Credential Management
+    - Intuitive Navigation
+2. **Intelligent Creator Identification**
+    - Profile Analysis
+    - Follower Count Filter
+    - Sales History Evaluation
+3. **Streamlined Invitation Process**
+    - Automated Creator Discovery
+    - Criteria-Based Selection
+    - Batch Invitation Sending
+4. **Customized Invitation and Commission Management**
+    - Dynamic Invitation Customization
+    - Commission Rate Configuration
+    - Deadline Setting
+5. **Automated Communication and Follow-up**
+    - Template-Based Messaging
+    - Response Tracking
+    - Follow-up Scheduling
+6. **Comprehensive Logging and Tracking**
+    - Outreach Logging
+    - Real-Time Status Updates
+    - Analytics and Reporting
