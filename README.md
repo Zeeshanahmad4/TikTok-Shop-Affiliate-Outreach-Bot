@@ -40,7 +40,7 @@
 
 ### Key Features
 
-1️⃣ **Automated Platform Access and Navigation**
+**1️⃣ Automated Platform Access and Navigation**
     - Credential Management
     - Intuitive Navigation
 2. **Intelligent Creator Identification**
