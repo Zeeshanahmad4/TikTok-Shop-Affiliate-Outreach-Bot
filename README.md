@@ -28,6 +28,9 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
 
 ## Project Overview
 
