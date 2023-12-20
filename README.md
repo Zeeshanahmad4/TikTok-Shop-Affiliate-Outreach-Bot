@@ -40,10 +40,15 @@
 
 ### Key Features
 
-1. **Automated Platform Access and Navigation**
- - **Credential Management:** The bot securely stores and utilizes TikTok shop credentials for automatic login, ensuring a seamless and secure access process.
- - **Session Management:** Manages user sessions to maintain continuous access without frequent logins, enhancing the efficiency of operations.
- - **Intuitive Navigation:** It automatically navigates through the TikTok shop’s affiliate center, efficiently focusing on key sections like 'Target Collaboration', thereby saving time and reducing manual navigation efforts.
+ChatGPT
+
+### 1\. Automated Platform Access and Navigation
+
+- **Credential Management:** The bot securely stores and utilizes TikTok shop credentials for automatic login, ensuring a seamless and secure access process.
+- **Session Management:** Manages user sessions to maintain continuous access without frequent logins, enhancing the efficiency of operations.
+- **Intuitive Navigation:** It automatically navigates through the TikTok shop’s affiliate center, efficiently focusing on key sections like 'Target Collaboration', thereby saving time and reducing manual navigation efforts.
+
+
 2. **Intelligent Creator Identification**
     - Profile Analysis
     - Follower Count Filter
