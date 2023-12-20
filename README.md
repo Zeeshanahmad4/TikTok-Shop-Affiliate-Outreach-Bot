@@ -44,9 +44,11 @@ ChatGPT
 
 ### 1\. Automated Platform Access and Navigation
 
-- **Credential Management:** The bot securely stores and utilizes TikTok shop credentials for automatic login, ensuring a seamless and secure access process.
-- **Session Management:** Manages user sessions to maintain continuous access without frequent logins, enhancing the efficiency of operations.
-- **Intuitive Navigation:** It automatically navigates through the TikTok shop’s affiliate center, efficiently focusing on key sections like 'Target Collaboration', thereby saving time and reducing manual navigation efforts.
+   - **Credential Management:** The bot securely stores and utilizes TikTok shop credentials for automatic login, ensuring a seamless and secure access process.
+   - **Session Management:** Manages user sessions to maintain continuous access without frequent logins, enhancing the efficiency of operations.
+   - **Intuitive Navigation:** It automatically navigates through the TikTok shop’s affiliate center, efficiently focusing on key sections like 'Target Collaboration', thereby saving time and reducing manual navigation efforts.
+   - **Automated Task Execution:** Capable of performing routine tasks such as checking notifications or updates within the TikTok shop, reducing manual workload.
+   - **Adaptive Interface Interaction:** Interacts with the changing interface of the TikTok shop, ensuring consistent performance even when the platform undergoes updates.
 
 
 2. **Intelligent Creator Identification**
