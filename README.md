@@ -45,3 +45,7 @@
 🕵️‍♂️ 5 - Bot is safe and secure its keep in mind the tiktok account limit and can not get caugt while running bot is mimicking human behavior as if done by a virtual assistant (VA).
 
 
+![Alt text](https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Mass-Outreach-Bot/blob/main/video.gif)
+
+
+
