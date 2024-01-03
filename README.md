@@ -38,7 +38,7 @@
 
 🔧 2 - We are providing this bot and extension as a services We run it on your behalf to simplify the process, avoiding the need for you to install and manage it yourself.
 
-🎯 3 - Automatically finds creators and influencers on TikTok. Sends a pre-compiled template message to the influencers, which you provide when ordering my services.
+🎯 3 - Automatically finds creators and influencers on TikTok. Sends a pre-compiled template message to the influencers, which you provide when ordering our services.
 
 💰 4 - We Offers plans from basic to premium. Charges are per single product; for multiple products, separate purchases of the service (gig) are required. one plan last for one week. it means we will send daily message for 5 days.
 
