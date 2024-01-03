@@ -54,7 +54,7 @@ Buy it from Upwork below.
     <code>Zeeshan Ahmad</code>
   </a>
 
-![Alt text](https://www.upwork.com/services/product/marketing-tiktok-shop-affiliate-mass-outreach-bot-1735347473404321792)
+[Alt text](https://www.upwork.com/services/product/marketing-tiktok-shop-affiliate-mass-outreach-bot-1735347473404321792)
 
 Directly approch to me from one of above channle and hire me. 
 
