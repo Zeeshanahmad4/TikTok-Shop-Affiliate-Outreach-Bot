@@ -28,6 +28,8 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
+![Alt text](https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Mass-Outreach-Bot/blob/main/Screenshot%202024-01-03%20at%205.58.11%20PM.png)
+
 
 
 #Features
