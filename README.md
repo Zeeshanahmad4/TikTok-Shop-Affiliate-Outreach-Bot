@@ -49,13 +49,11 @@
 
 
 Buy it from Upwork below.
-  <a href="https://www.upwork.com/freelancers/zeeshanahmad291">
+  <a href="https://www.upwork.com/services/product/marketing-tiktok-shop-affiliate-mass-outreach-bot-1735347473404321792">
     <img alt="Upwork" width="80px" src="https://github.com/Zeeshanahmad4/Zeeshanahmad4/blob/main/upwork.svg" />
-    <code>Zeeshan Ahmad</code>
+    <code>Here</code>
   </a>
 
-[Alt text](https://www.upwork.com/services/product/marketing-tiktok-shop-affiliate-mass-outreach-bot-1735347473404321792)
-
-Directly approch to me from one of above channle and hire me. 
+## Directly text me from one of above channle and hire me. 
 
 
