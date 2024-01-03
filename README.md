@@ -48,4 +48,14 @@
 ![Alt text](https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Mass-Outreach-Bot/blob/main/video.gif)
 
 
+Buy it from Upwork below.
+  <a href="https://www.upwork.com/freelancers/zeeshanahmad291">
+    <img alt="Upwork" width="80px" src="https://github.com/Zeeshanahmad4/Zeeshanahmad4/blob/main/upwork.svg" />
+    <code>Zeeshan Ahmad</code>
+  </a>
+
+![Alt text](https://www.upwork.com/services/product/marketing-tiktok-shop-affiliate-mass-outreach-bot-1735347473404321792)
+
+Directly approch to me from one of above channle and hire me. 
+
 
