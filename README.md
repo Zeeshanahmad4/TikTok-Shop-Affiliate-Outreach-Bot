@@ -34,26 +34,29 @@
 
 #Features
 
-🏆 1 - The TikTok Creator Outreach Bot is a Chrome extension designed to automate the process of messaging or inviting creators for the affliation to your product on TikTok seller center.
+🏆 1 - The TikTok Creator Outreach Bot is a desktop Application designed to automate the process of messaging or inviting creators for the affliation to your product on TikTok seller center.
 
-🔧 2 - We are providing this bot and extension as a services We run it on your behalf to simplify the process, avoiding the need for you to install and manage it yourself.
+🎯 2 - Automatically finds creators and influencers on TikTok. Sends a pre-compiled template message to the influencers, which you provide when ordering our services.
 
-🎯 3 - Automatically finds creators and influencers on TikTok. Sends a pre-compiled template message to the influencers, which you provide when ordering our services.
+💰 3 - We Offers plans from basic to premium. Charges are per single product; for multiple products, separate purchases of the service (gig) are required. one plan last for one week.Please check out app. 
 
-💰 4 - We Offers plans from basic to premium. Charges are per single product; for multiple products, separate purchases of the service (gig) are required. one plan last for one week. it means we will send daily message for 5 days.
+🕵️‍♂️ 4 - Bot is safe and secure its keep in mind the tiktok account limit and can not get caugt while running bot is mimicking human behavior as if done by a virtual assistant (VA).
 
-🕵️‍♂️ 5 - Bot is safe and secure its keep in mind the tiktok account limit and can not get caugt while running bot is mimicking human behavior as if done by a virtual assistant (VA).
+More features.
 
+* Up to 10 Shops Automation: Streamline your management by automating up to ten TT Shop, so choose carefully.
+* Up to 1k Messages/day per shop: Send up to 1,000 messages per day for each shop you've automated.
+* Maximum of 30k Messages/month per shop: Maximize your outreach with a monthly limit of 30,000 messages per shop.
+* Automatically skips duplicate messages: Prevent message duplication effortlessly with automatic detection and skipping.
+* Ability to send messages to a database of 15k influencers: Leverage our extensive influencer database for targeted outreach.
+* Advanced filters by GMV, category, and other factors: Refine your targeting with advanced filtering capabilities tailored to your needs.
+* Option to send a product card along with messages: Enhance your messages by attaching product cards for increased engagement.
+* Custom filters with TTinit App: Customize your filtering criteria further with the TTinit App for precise targeting, Like only female/Male filters.
+* Access to stats and reporting dashboard: Monitor and analyze your outreach efforts with access to detailed statistics and reporting.
+* Follow-up message feature: Follow up on your outreach effectively with our follow-up message.
+* Opportunity for early access to new features: Stay ahead of the curve with exclusive early access to upcoming features.
 
 ![Alt text](https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Mass-Outreach-Bot/blob/main/video.gif)
 
-
-Buy it from Upwork
-  <a href="https://www.upwork.com/services/product/marketing-tiktok-shop-affiliate-mass-outreach-bot-1735347473404321792">
-    <img alt="Upwork" width="80px" src="https://github.com/Zeeshanahmad4/Zeeshanahmad4/blob/main/upwork.svg" />
-    <code>Here</code>
-  </a>
-
-## Directly text me from one of above channle and hire me. 
 
 
