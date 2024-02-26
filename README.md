@@ -32,9 +32,6 @@
 
 The TikTok Creator Outreach Bot is a desktop application designed to automate messaging and inviting creators for product affiliation on TikTok Seller Center. It automatically finds and messages influencers using a pre-compiled template message you provide. The bot operates safely within TikTok account limits, mimicking human behavior to avoid detection.
 
-<center>Please check out the full YouTube demo of the app [from here](https://www.youtube.com/watch?v=GN4zOd0L1L4&feature=youtu.be).</center>
-
-
 <p align="center">Please check out the full YouTube demo of the app <a href="https://www.youtube.com/watch?v=GN4zOd0L1L4&feature=youtu.be" target="_blank">from here</a>.</p>
 
 Key features.
