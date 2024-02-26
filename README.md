@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
-    <img alt="Gmail" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
+    <img alt="Gmail" width="30px" src="[https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg](https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Mass-Outreach-Bot/blob/main/New%20init.jpg)" />
     <code>ahmadzee26@gmail.com</code>
   </a>
   <span> ┃ </span>
