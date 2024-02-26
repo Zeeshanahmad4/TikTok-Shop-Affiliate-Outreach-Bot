@@ -35,7 +35,7 @@ The TikTok Creator Outreach Bot is a desktop application designed to automate me
 <center>Please check out the full YouTube demo of the app [from here](https://www.youtube.com/watch?v=GN4zOd0L1L4&feature=youtu.be).</center>
 
 
-![Alt text](https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Mass-Outreach-Bot/blob/main/Main-screen.png)
+<p align="center">Please check out the full YouTube demo of the app <a href="https://www.youtube.com/watch?v=GN4zOd0L1L4&feature=youtu.be" target="_blank">from here</a>.</p>
 
 Key features.
 
