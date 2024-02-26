@@ -35,19 +35,7 @@ The TikTok Creator Outreach Bot is a desktop application designed to automate me
 
 ![Alt text](https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Mass-Outreach-Bot/blob/main/Screenshot%202024-01-03%20at%205.58.11%20PM.png)
 
-
-
-#Features
-
-🏆 1 - The TikTok Creator Outreach Bot is a desktop Application designed to automate the process of messaging or inviting creators for the affliation to your product on TikTok seller center.
-
-🎯 2 - Automatically finds creators and influencers on TikTok. Sends a pre-compiled template message to the influencers, which you provide when ordering our services.
-
-💰 3 - We Offers plans from basic to premium. Charges are per single product; for multiple products, separate purchases of the service (gig) are required. one plan last for one week.Please check out app. 
-
-🕵️‍♂️ 4 - Bot is safe and secure its keep in mind the tiktok account limit and can not get caugt while running bot is mimicking human behavior as if done by a virtual assistant (VA).
-
-More features.
+Key features.
 
 * Up to 10 Shops Automation: Streamline your management by automating up to ten TT Shop, so choose carefully.
 * Up to 1k Messages/day per shop: Send up to 1,000 messages per day for each shop you've automated.
