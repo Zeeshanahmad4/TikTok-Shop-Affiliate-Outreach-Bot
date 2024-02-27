@@ -6,17 +6,18 @@
     <code>ahmadzee26@gmail.com</code>
   </a>
   <span> ┃ </span>
-  
-  <a href="https://t.me/zeeshanahmad4">
-    <img alt="Telegram" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
-    <code>@zeeshanahmad4</code>
-  </a>
-  <span> ┃ </span>
-  
-  <a href="https://discord.gg/KpmPXJXRkS">
+    <a href="https://discord.gg/KpmPXJXRkS">
     <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
     <code>TTinit Server</code>
   </a>
+    <span> ┃ </span>
+  <a href="https://t.me/+jApxd21h-XI1NmI0">
+    <img alt="Telegram" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
+    <code>TTinit Telegram</code>
+  </a>
+
+  
+
     
   
   <br />
