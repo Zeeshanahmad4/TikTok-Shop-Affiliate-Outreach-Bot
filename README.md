@@ -17,13 +17,7 @@
     <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
     <code>TTinit Server</code>
   </a>
-  
-  <span> ┃ </span>
-  
-  <a href="https://www.upwork.com/freelancers/zeeshanahmad291">
-    <img alt="Upwork" width="80px" src="https://github.com/Zeeshanahmad4/Zeeshanahmad4/blob/main/upwork.svg" />
-    <code>Zeeshan Ahmad</code>
-  </a>
+    
   
   <br />
   <strong>For more details please join our discord and Check Our website.👆👆👆</strong>
