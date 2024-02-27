@@ -13,10 +13,11 @@
   </a>
   <span> ┃ </span>
   
-  <a href="[https://discord.com](https://discord.gg/KpmPXJXRkS)">
+  <a href="https://discord.gg/KpmPXJXRkS">
     <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
     <code>TTinit Server</code>
   </a>
+  
   <span> ┃ </span>
   
   <a href="https://www.upwork.com/freelancers/zeeshanahmad291">
