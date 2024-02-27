@@ -1,9 +1,9 @@
 <h1 align="center">TikTok Shop Affiliate Mass Outreach Bot 🤖</h1>
 
 <div align="center">
-  <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
-    <img alt="Gmail" width="30px" src="[[https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg](https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Mass-Outreach-Bot/blob/main/New%20init.jpg)](https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Mass-Outreach-Bot/blob/main/New%20init.jpg)" />
-    <code>ahmadzee26@gmail.com</code>
+  <a href="https://ttinit.com/">
+    <img alt="Icon" width="30px" src="https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Mass-Outreach-Bot/blob/main/New%20init.jpg" />
+    <code>TTinit Website</code>
   </a>
   <span> ┃ </span>
     <a href="https://discord.gg/KpmPXJXRkS">
