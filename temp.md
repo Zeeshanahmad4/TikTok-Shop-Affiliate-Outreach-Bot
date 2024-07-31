@@ -22,10 +22,10 @@ TT init desktop application designed to automate messaging and inviting creator
 ## Features
 
 | Feature                          | Description                                                                                |
-|----------------------------------|--------------------------------------------------------------------------------------------|
+|:--------------------------------:|:------------------------------------------------------------------------------------------:|
 | Cross-Platform Compatibility     | Works on Windows, Mac, and VPS for easy installation and use.                              |
-| Up-To-Date Affiliate Database    | Access 900k+ TikTok Shop affiliate profiles.                                               |
-| 100k Email List                  | Access a comprehensive list of 100k emails for outreach.                                   |
+| Up-To-Date Affiliate Database    | Access 900k+ TikTok Shop affiliate profiles and 80k emails.                                 |
+| 100k Email List                  | Access a comprehensive list of 100k emails for outreach.                                    |
 | Dashboard Overview               | Unified dashboard to track outreach efforts.                                               |
 | Automated Affiliate Outreaching  | Automates direct messages and invitations to affiliates.                                   |
 | Automate Open Collaboration      | Seamlessly automate open collaboration initiatives.                                        |
@@ -39,3 +39,4 @@ TT init desktop application designed to automate messaging and inviting creator
 | Smart Duplication Prevention     | Intelligent detection to eliminate duplicate affiliates.                                   |
 | Premium Support                  | VIP support via WhatsApp, meetings, email, and Discord.                                    |
 | Mimicking Your VA                | Human-like typing with varying speed for natural interaction.                              |
+
