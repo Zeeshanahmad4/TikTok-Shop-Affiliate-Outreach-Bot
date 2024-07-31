@@ -2,6 +2,8 @@
 
 TT init desktop application designed to automate messaging and inviting creators for product affiliation on TikTok Seller Center. Optimize your affiliate strategy using our bot, sending 2,000 customized messages and invites daily to enhance your TikTok Shop's growth.
 
+  <br />
+
 ![Alt text](https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Mass-Outreach-Bot/blob/main/Main-screen.png)
 
 <div align="center">
