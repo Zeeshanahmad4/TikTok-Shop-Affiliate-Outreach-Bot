@@ -19,15 +19,17 @@ TT init desktop application designed to automate messaging and inviting creator
   <strong>For more details please join our discord and Check Our website.👆👆👆</strong>
 </div>
 
-
 ## Features
 
 | Feature                          | Description                                                                                |
 |----------------------------------|--------------------------------------------------------------------------------------------|
 | Cross-Platform Compatibility     | Works on Windows, Mac, and VPS for easy installation and use.                              |
-| Up-To-Date Affiliate Database    | Access 900k+ TikTok Shop affiliate profiles and 80k emails.                                |
+| Up-To-Date Affiliate Database    | Access 900k+ TikTok Shop affiliate profiles.                                               |
+| 100k Email List                  | Access a comprehensive list of 100k emails for outreach.                                   |
 | Dashboard Overview               | Unified dashboard to track outreach efforts.                                               |
 | Automated Affiliate Outreaching  | Automates direct messages and invitations to affiliates.                                   |
+| Automate Open Collaboration      | Seamlessly automate open collaboration initiatives.                                        |
+| Automate Target Collaboration    | Effortlessly automate targeted collaboration efforts.                                      |
 | Premium WhatsApp Support         | Instant, reliable help anytime.                                                            |
 | AI Smart Bot                     | Personalized messages, duplication detection, and smart filtering.                         |
 | 5X Your Product Sale             | Boost sales by 500% and sample requests by 400%.                                           |
