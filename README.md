@@ -5,5 +5,6 @@ TTinit desktop application designed to automate messaging and inviting creators 
 <br />
 ⭐Our bot is free for new brands with a GMV under $1500 looking to build a presence on TikTok. To claim your free account, please go to our website and sign up for free.⭐
 
+![TTinit New](https://github.com/user-attachments/assets/7c79772f-0f1c-4809-ac95-48f127523cb9)
 
 
