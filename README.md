@@ -42,4 +42,4 @@ TTinit desktop application designed to automate messaging and inviting creators 
 | Product Cards                    | Include product cards in messages.                                                         |
 | Follow-up Messages               | Prevent duplicates but ensure consistent follow-ups.                                       |
 | Proven Results                   | 30% increase in sample requests and 40% increase in sales.
-
+| Stats                            | 150+ brands using TTinit, 2.5M+ messages sent, 40K sample requests received, 1.2M follow-ups sent.|
