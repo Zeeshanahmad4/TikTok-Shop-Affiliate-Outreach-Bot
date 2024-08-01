@@ -9,7 +9,7 @@ TTinit desktop application designed to automate messaging and inviting creators 
 
 <div align="center">
   <a href="https://ttinit.com/">
-    <img alt="Icon" width="30px" src="https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Mass-Outreach-Bot/blob/main/New%20init.jpg" />
+    <img alt="Icon" width="30px" src="https://raw.githubusercontent.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Mass-Outreach-Bot/main/New%20init.jpg" />
     <code>TTinit Website</code>
   </a>
   <span> ┃ </span>
@@ -17,6 +17,8 @@ TTinit desktop application designed to automate messaging and inviting creators 
     <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
     <code>TTinit Server</code>
   </a>
+</div>
+
   <br />
   <strong>For more details please join our discord and Check Our website.👆👆👆</strong>
 </div>
