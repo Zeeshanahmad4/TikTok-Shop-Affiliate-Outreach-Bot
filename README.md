@@ -17,10 +17,10 @@ TTinit desktop application designed to automate messaging and inviting creators 
     <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
     <code>TTinit Server</code>
   </a>
-</div>
-  <br />
+<br />
   <strong>For more details please join our discord and Check Our website.👆👆👆</strong>
 </div>
+
 
 ## Features
 
