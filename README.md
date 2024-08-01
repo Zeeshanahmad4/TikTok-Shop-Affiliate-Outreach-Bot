@@ -49,4 +49,4 @@ TTinit desktop application designed to automate messaging and inviting creators 
 ![Success](https://github.com/user-attachments/assets/6626a239-687a-433b-9ed8-212b0e04795e)
 
 Purepeak, a Canadian supplements brand, achieved exceptional success with TT Init, reaching a monthly GMV of $219,989.97. Watch their story.
-https://www.loom.com/share/955537c929b1463d9900b0e1ec660e94?sid=d1f691ee-e820-496c-9821-765d6ef5244f
+https://github.com/user-attachments/assets/7208e1a3-2b3b-467b-a3bc-cc67df0f344f
