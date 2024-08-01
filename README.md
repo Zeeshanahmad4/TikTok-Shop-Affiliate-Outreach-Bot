@@ -65,5 +65,6 @@ https://github.com/user-attachments/assets/b1e477db-1b5c-4696-8315-81bae61d6b43
 https://cal.com/theawaisahmadkhan/ttinit-onboarding-demo
 
 ### Contact Us: 
-**Email**: support@ttinit.com 
+***Email***: support@ttinit.com 
+
 ***Website***: https://www.ttinit.com 
