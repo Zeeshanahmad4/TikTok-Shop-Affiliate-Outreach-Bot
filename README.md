@@ -43,3 +43,10 @@ TTinit desktop application designed to automate messaging and inviting creators 
 | Follow-up Messages               | Prevent duplicates but ensure consistent follow-ups.                                       |
 | Proven Results                   | 30% increase in sample requests and 40% increase in sales.
 | Stats                            | 150+ brands using TTinit, 2.5M+ messages sent, 40K sample requests received, 1.2M follow-ups sent.|
+
+
+## Success Story
+![Success](https://github.com/user-attachments/assets/6626a239-687a-433b-9ed8-212b0e04795e)
+
+Purepeak, a Canadian supplements brand, achieved exceptional success with TT Init, reaching a monthly GMV of $219,989.97. Watch their story.
+https://www.loom.com/share/955537c929b1463d9900b0e1ec660e94?sid=d1f691ee-e820-496c-9821-765d6ef5244f
