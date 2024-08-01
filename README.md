@@ -55,7 +55,8 @@ https://github.com/user-attachments/assets/7208e1a3-2b3b-467b-a3bc-cc67df0f344f
 
 ## Check our App Demo on [Youtube](https://www.youtube.com/watch?v=gGR7bk6DBxk&ab_channel=TTinit):
 
-https://github.com/user-attachments/assets/a0f854c4-d73f-4758-ad4d-8bd5ad10f504
+https://github.com/user-attachments/assets/b1e477db-1b5c-4696-8315-81bae61d6b43
+
 
 
 [Schedule](https://cal.com/theawaisahmadkhan/ttinit-onboarding-demo
