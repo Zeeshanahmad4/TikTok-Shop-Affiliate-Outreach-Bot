@@ -18,8 +18,6 @@ TTinit desktop application designed to automate messaging and inviting creators 
     <code>TTinit Server</code>
   </a>
 </div>
-
-
   <br />
   <strong>For more details please join our discord and Check Our website.👆👆👆</strong>
 </div>
