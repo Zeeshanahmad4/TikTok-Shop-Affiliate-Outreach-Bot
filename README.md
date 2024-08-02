@@ -3,7 +3,7 @@
 TTinit desktop application designed to automate messaging and inviting creators for product affiliation on TikTok Seller Center. We've helped over 15 agencies and 70 Brands and Shop owners achieve 10x to 15x sales growth with our TT Init bot by automating their brand’s affiliate strategy by accessing 900k+ TikTok Shop affiliate profiles and 100k emails.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ab200c8b-6336-4df7-b912-98a8d680b7e9" alt="Free For New Brands">
+  <img src="https://github.com/user-attachments/assets/ab200c8b-6336-4df7-b912-98a8d680b7e9" alt="Free For New Brands" width="100%">
 </div>
 
 <br />
