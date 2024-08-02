@@ -18,8 +18,8 @@ TTinit desktop application designed to automate messaging and inviting creators 
     <code>TTinit Server</code>
   </a> 
 <a href="https://wa.me/923066423521">
-    <img alt="WhatsApp For Queries" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
-    <code>+923066423521</code>
+    <img alt="WhatsApp" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
+    <code>WhatsApp For Queries</code>
 </a>
 <br />
   <strong>For more details please join our discord and Check Our website.👆👆👆</strong>
