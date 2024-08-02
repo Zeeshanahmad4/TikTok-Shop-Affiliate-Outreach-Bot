@@ -48,9 +48,9 @@ TTinit desktop application designed to automate messaging and inviting creators 
 ## Success Story
 ![Success](https://github.com/user-attachments/assets/6626a239-687a-433b-9ed8-212b0e04795e)
 
-Purepeak, a Canadian supplements brand, achieved exceptional success with TT Init, reaching a monthly GMV of $219,989.97. [Watch their story](https://github.com/user-attachments/assets/7208e1a3-2b3b-467b-a3bc-cc67df0f344f)
+Purepeak, a Canadian supplements brand, achieved exceptional success with TT Init, reaching a monthly GMV of $219,989.97. [Watch their story](https://github.com/user-attachments/assets/b47432d3-cd66-4874-95e8-1563617f2b7c)
 
-https://github.com/user-attachments/assets/7208e1a3-2b3b-467b-a3bc-cc67df0f344f
+https://github.com/user-attachments/assets/b47432d3-cd66-4874-95e8-1563617f2b7c
 
 
 ## Check our App Demo on [Youtube](https://www.youtube.com/watch?v=gGR7bk6DBxk&ab_channel=TTinit)
@@ -62,7 +62,6 @@ https://github.com/user-attachments/assets/b1e477db-1b5c-4696-8315-81bae61d6b43
 [Schedule a one-on-one](https://cal.com/theawaisahmadkhan/ttinit-onboarding-demo
 ) demo to explore how we can help your brand grow.
 
-https://cal.com/theawaisahmadkhan/ttinit-onboarding-demo
 <br />
 
 ### Contact Us: 
