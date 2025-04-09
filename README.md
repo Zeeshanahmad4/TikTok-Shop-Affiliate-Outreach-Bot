@@ -8,7 +8,7 @@ TTinit desktop application designed to automate messaging and inviting creators 
 
 <br />
 ⭐Our bot is free for new brands with a GMV under $1500 looking to build a presence on TikTok. To claim your free account, please go to our website and sign up for free.⭐
-
+<br />
 <br />
 
 We are a software development agency , Do you have a custom project for us building a tiktok affliate Cloud CRM from scratch for your agency? Feel free to reach out to us via email, zeeshan.ahmad@bitbash.com
