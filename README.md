@@ -15,23 +15,7 @@ We are also a TikTok agency We manage TikTok shops from A-Z, driving impressive 
 
 ![TTinit New](https://github.com/user-attachments/assets/7c79772f-0f1c-4809-ac95-48f127523cb9)
 
-<div align="center">
-  <a href="https://ttinit.com/">
-    <img alt="Icon" width="30px" src="https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Outreach-Bot/blob/main/Resources/New%20init.jpg?raw=true" />
-    <code>TTinit Website</code>
-  </a>
-  <span> ┃ </span>
-    <a href="https://discord.gg/KpmPXJXRkS">
-    <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
-    <code>TTinit Server</code>
-  </a> 
-<a href="https://wa.me/923066423521">
-    <img alt="WhatsApp" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
-    <code>WhatsApp For Queries</code>
-</a>
-<br />
-  <strong>For more details please join our discord and Check Our website.👆👆👆</strong>
-</div>
+
 
 ## Features
 
