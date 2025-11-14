@@ -8,8 +8,11 @@ Our automation-driven approach has helped over **15 agencies**, **70 brands**, a
 
 As Bitbash, we specialize in high-scale automation systems for social commerce. Alongside development, we also operate as a **TikTok Shop Agency**, managing A–Z operations for 45+ brands with the support of our automation stack, including TTinit.
 
-<div align="center">
+
+<div align="center" >
+  
   <img src="https://github.com/user-attachments/assets/ab200c8b-6336-4df7-b912-98a8d680b7e9" alt="Free For New Brands" width="90%">
+  
 </div>
 
 <br />
@@ -79,4 +82,4 @@ https://github.com/user-attachments/assets/b1e477db-1b5c-4696-8315-81bae61d6b43
 
 ***Email:*** support@ttinit.com  
 ***Website:*** https://www.ttinit.com  
-***Built By:*** Bitbash — Pakistan’s Leading Automation Agency
+
