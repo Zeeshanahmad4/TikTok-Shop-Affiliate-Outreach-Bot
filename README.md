@@ -7,6 +7,7 @@ TTinit is a powerful desktop application developed in-house by **Bitbash**, desi
 Our automation-driven approach has helped over **15 agencies**, **70 brands**, and countless shop owners achieve **10x–15x sales growth** by scaling their TikTok Shop affiliate strategy. TTinit connects you to **900k+ TikTok Shop affiliate profiles** and **100k+ verified emails**, empowering brands to grow faster and smarter.
 
 As Bitbash, we specialize in high-scale automation systems for social commerce. Alongside development, we also operate as a **TikTok Shop Agency**, managing A–Z operations for 45+ brands with the support of our automation stack, including TTinit.
+<br>
 
 
 <div align="center" >
