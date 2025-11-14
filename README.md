@@ -94,6 +94,8 @@ https://github.com/user-attachments/assets/b1e477db-1b5c-4696-8315-81bae61d6b43
 
 [Schedule a one-on-one](https://cal.com/theawaisahmadkhan/ttinit-onboarding-demo) demo to explore how Bitbash and TTinit can help your brand grow.
 
+<br>
+
 <p align="center">
   <a href="https://t.me/devpilot1" target="_blank">
     <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
