@@ -16,6 +16,21 @@ As Bitbash, we specialize in high-scale automation systems for social commerce. 
 </div>
 
 <br />
+
+<p align="center">
+  <a href="https://t.me/devpilot1" target="_blank">
+    <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>&nbsp;
+  <a href="https://wa.me/923249868488?text=Hi%20Zeeshan%2C%20I'm%20interested%20in%20automation." target="_blank">
+    <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>&nbsp;
+  <a href="mailto:bitbash9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-bitbash9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>&nbsp;
+  <a href="https://bitbash.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+</p>
 ⭐ Our bot is **free for new brands** with a GMV under **$1500** who want to establish their presence on TikTok Shop.  
 To claim your free account, please visit our website and register. ⭐
 <br />
