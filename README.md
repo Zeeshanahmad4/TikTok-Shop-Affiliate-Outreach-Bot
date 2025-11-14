@@ -1,5 +1,7 @@
 <h1 align="center">TikTok Shop Affiliate Mass Outreach Bot 🤖</h1>
 
+<img width="1500" height="448" alt="Image" src="https://github.com/user-attachments/assets/7d3f6ecb-389a-4cdd-b591-b00cac41fd15" />
+
 TTinit desktop application designed to automate messaging and inviting creators for product affiliation on TikTok Seller Center. We've helped over 15 agencies and 70 Brands and Shop owners achieve 10x to 15x sales growth with our TT Init bot by automating their brand’s affiliate strategy by accessing 900k+ TikTok Shop affiliate profiles and 100k emails.
 
 We are also a TikTok agency We manage TikTok shops from A-Z, driving impressive sales for over 45 brands using data and automation. Our rates are competitive, and we also offer percentage-based pricing per sale.
