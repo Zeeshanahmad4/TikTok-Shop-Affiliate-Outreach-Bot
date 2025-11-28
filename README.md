@@ -1,6 +1,5 @@
 <h1 align="center">TikTok Shop Affiliate Mass Outreach Bot 🤖</h1>
 
-<img width="1500" height="448" alt="Image" src="https://github.com/user-attachments/assets/7d3f6ecb-389a-4cdd-b591-b00cac41fd15" />
 
 TTinit is a powerful desktop application developed in-house by **Bitbash**, designed to automate messaging and creator outreach for TikTok Shop Sellers. 
 
