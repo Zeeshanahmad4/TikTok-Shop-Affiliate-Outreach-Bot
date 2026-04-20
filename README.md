@@ -16,11 +16,13 @@ As Bitbash, we specialize in high-scale automation systems for social commerce. 
 </div>
 
 <br />
-
+<div align="center" >
 
   <a href="https://wa.me/923249868488?text=Hi%20Zeeshan%2C%20I'm%20interested%20in%20automation." target="_blank">
     <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>&nbsp;
+
+</div>
 
 ⭐ Our bot is **free for new brands** with a GMV under **$1500** who want to establish their presence on TikTok Shop.  
 To claim your free account, please visit our website and register. ⭐
