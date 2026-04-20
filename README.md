@@ -28,6 +28,8 @@ As Bitbash, we specialize in high-scale automation systems for social commerce. 
 To claim your free account, please visit our website and register. ⭐
 <br />
 
+</div>
+
 ![TTinit New](https://github.com/user-attachments/assets/7c79772f-0f1c-4809-ac95-48f127523cb9)
 
 <div align="center">
