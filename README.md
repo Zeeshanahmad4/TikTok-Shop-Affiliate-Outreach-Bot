@@ -23,8 +23,6 @@ At TTinit, we build high-scale automation systems for TikTok Shop and social com
     <code>TTinit Website</code>
   </a>
   <span> ┃ </span>
-  <a href="https://discord.gg/KpmPXJXRkS">
-    <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
     <code>TTinit Server</code>
   </a>  
   <span> ┃ </span>
@@ -36,7 +34,7 @@ At TTinit, we build high-scale automation systems for TikTok Shop and social com
   <strong>For more details, please visit our website and join our Discord. 👆👆👆</strong>
 </div>
 
-</div>
+<br />
 
 ![TTinit New](https://github.com/user-attachments/assets/7c79772f-0f1c-4809-ac95-48f127523cb9)
 
