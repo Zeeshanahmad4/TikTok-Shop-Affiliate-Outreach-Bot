@@ -4,8 +4,6 @@
 TTinit is a powerful desktop application developed in-house by **TTinit**, designed to automate messaging and creator outreach for TikTok Shop Sellers. 
 
 Our automation-driven approach has helped over **15 agencies**, **70 brands**, and countless shop owners achieve **10x–15x sales growth** by scaling their TikTok Shop affiliate strategy. TTinit connects you to **900k+ TikTok Shop affiliate profiles** and **100k+ verified emails**, empowering brands to grow faster and smarter.
-
-At TTinit, we build high-scale automation systems for TikTok Shop and social commerce brands. Alongside development, we operate as a TikTok Shop Agency, managing A–Z operations for 45+ brands with the support of our automation stack..
 <br>
 
 
@@ -31,8 +29,11 @@ At TTinit, we build high-scale automation systems for TikTok Shop and social com
     <img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Visit Website">
   </a>
 </p>
+<br />
 
+At TTinit, we build high-scale automation systems for TikTok Shop and social commerce brands. Alongside development, we operate as a TikTok Shop Agency, managing A–Z operations for 45+ brands with the support of our automation stack..
 
+<br />
 ![TTinit New](https://github.com/user-attachments/assets/7c79772f-0f1c-4809-ac95-48f127523cb9)
 
 ⭐ Our bot is **free for new brands** with a GMV under **$1500** who want to establish their presence on TikTok Shop.  
