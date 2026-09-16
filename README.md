@@ -9,20 +9,13 @@ At TTinit, we build high-scale automation systems for TikTok Shop and social com
 <br>
 
 
+
 <br />
 <div align="center" >
 
   <a href="https://wa.me/923249868488?text=Hi%20Zeeshan%2C%20I'm%20interested%20in%20automation." target="_blank">
     <img src="https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Outreach-Bot/blob/main/Resources/56945a82-b363-4699-99af-0368a86d7132%20(1).png" alt="WhatsApp">
   </a>&nbsp;
-
-⭐ Our bot is **free for new brands** with a GMV under **$1500** who want to establish their presence on TikTok Shop.  
-To claim your free account, please visit our website and register. ⭐
-<br />&nbsp;
-
-</div>
-
-![TTinit New](https://github.com/user-attachments/assets/7c79772f-0f1c-4809-ac95-48f127523cb9)
 
 <div align="center">
   <a href="https://ttinit.com/">
@@ -42,6 +35,15 @@ To claim your free account, please visit our website and register. ⭐
   <br />
   <strong>For more details, please visit our website and join our Discord. 👆👆👆</strong>
 </div>
+
+</div>
+
+![TTinit New](https://github.com/user-attachments/assets/7c79772f-0f1c-4809-ac95-48f127523cb9)
+
+⭐ Our bot is **free for new brands** with a GMV under **$1500** who want to establish their presence on TikTok Shop.  
+To claim your free account, please visit our website and register. ⭐
+<br />&nbsp;
+
 
 ## Features
 
