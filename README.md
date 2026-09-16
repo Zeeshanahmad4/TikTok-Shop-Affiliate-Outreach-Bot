@@ -17,24 +17,21 @@ At TTinit, we build high-scale automation systems for TikTok Shop and social com
     <img src="https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Outreach-Bot/blob/main/Resources/56945a82-b363-4699-99af-0368a86d7132%20(1).png" alt="WhatsApp">
   </a>&nbsp;
 
-<div align="center">
-  <a href="https://ttinit.com/">
-    <img alt="Icon" width="30px" src="https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Outreach-Bot/blob/main/Resources/New%20init.jpg?raw=true" />
-    <code>TTinit Website</code>
+<p align="center">
+  <a href="https://t.me/Bitbash333" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/Chat_on-Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Chat on Telegram">
+  </a>&nbsp;
+  <a href="https://wa.me/923249868488?text=Hi%2C%20I%27m%20interested." target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="Chat WhatsApp">
+  </a>&nbsp;
+  <a href="mailto:hello@ttinit.com" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/Email-hello@ttinit.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email hello@appilot.app">
+  </a>&nbsp;
+  <a href="https://www.ttinit.com/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Visit Website">
   </a>
-  <span> ┃ </span>
-    <code>TTinit Server</code>
-  </a>  
-  <span> ┃ </span>
-  <a href="https://wa.me/923066423521">
-    <img alt="WhatsApp" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
-    <code>WhatsApp For Queries</code>
-  </a>
-  <br />
-  <strong>For more details, please visit our website and join our Discord. 👆👆👆</strong>
-</div>
+</p>
 
-<br />
 
 ![TTinit New](https://github.com/user-attachments/assets/7c79772f-0f1c-4809-ac95-48f127523cb9)
 
