@@ -5,21 +5,15 @@ TTinit is a powerful desktop application developed in-house by **Bitbash**, desi
 
 Our automation-driven approach has helped over **15 agencies**, **70 brands**, and countless shop owners achieve **10x–15x sales growth** by scaling their TikTok Shop affiliate strategy. TTinit connects you to **900k+ TikTok Shop affiliate profiles** and **100k+ verified emails**, empowering brands to grow faster and smarter.
 
-As Bitbash, we specialize in high-scale automation systems for social commerce. Alongside development, we also operate as a **TikTok Shop Agency**, managing A–Z operations for 45+ brands with the support of our automation stack, including TTinit.
+At TTinit, we build high-scale automation systems for TikTok Shop and social commerce brands. Alongside development, we operate as a TikTok Shop Agency, managing A–Z operations for 45+ brands with the support of our automation stack..
 <br>
 
-
-<div align="center" >
-  
-  <img src="https://github.com/user-attachments/assets/ab200c8b-6336-4df7-b912-98a8d680b7e9" alt="Free For New Brands" width="90%">
-  
-</div>
 
 <br />
 <div align="center" >
 
   <a href="https://wa.me/923249868488?text=Hi%20Zeeshan%2C%20I'm%20interested%20in%20automation." target="_blank">
-    <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    <img src="https://github.com/Zeeshanahmad4/TikTok-Shop-Affiliate-Outreach-Bot/blob/main/Resources/56945a82-b363-4699-99af-0368a86d7132%20(1).png" alt="WhatsApp">
   </a>&nbsp;
 
 ⭐ Our bot is **free for new brands** with a GMV under **$1500** who want to establish their presence on TikTok Shop.  
